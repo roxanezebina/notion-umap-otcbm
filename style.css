@@ -9,3 +9,7 @@
 #umap-alert-container.error {
     visibility: invisible;
 }
+
+with-transition error{
+    visibility: invisible;
+}
