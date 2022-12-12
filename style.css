@@ -12,4 +12,10 @@
 
 .with-transition error{
     visibility: invisible;
+    transition: all 0s;
+    transition-duration: 0s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
 }
+
