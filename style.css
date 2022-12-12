@@ -1,3 +1,11 @@
 .umap-alert #umap-alert-container {
     visibility: invisible;
 }
+
+#umap-alert-container {
+    visibility: invisible;
+}
+
+#umap-alert-container.error {
+    visibility: invisible;
+}
