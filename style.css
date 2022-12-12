@@ -10,6 +10,6 @@
     visibility: invisible;
 }
 
-with-transition error{
+.with-transition error{
     visibility: invisible;
 }
